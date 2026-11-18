@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/seiseiai1st/muse-oauth-client/main/muse-client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/seiseiai1st/muse-oauth-client@main/muse-client.json",
   "client_name": "Meta Muse",
   "redirect_uris": [
     "https://agent.meta.ai/api/hatch/oauth/callback",
