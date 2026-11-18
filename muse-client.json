@@ -1,0 +1,17 @@
+{
+  "client_id": "https://raw.githubusercontent.com/seiseiai1st/muse-oauth-client/main/muse-client.json",
+  "client_name": "Meta Muse",
+  "redirect_uris": [
+    "https://agent.meta.ai/api/hatch/oauth/callback",
+    "https://muse.ai/api/hatch/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp:generate"
+}
